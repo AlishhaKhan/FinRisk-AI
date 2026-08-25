@@ -47,10 +47,3 @@ Featuring a high-performance decoupled architecture, CreditShield AI provides re
                                         │ • Synthetic Data Engine │
                                         │ • Feature Scoring Model │
                                         └─────────────────────────┘
-
----
-
-<img width="1917" height="918" alt="finrisk1" src="https://github.com/user-attachments/assets/4e00abe3-45cc-455f-860e-c07b8b1a7925" />
-<img width="1919" height="917" alt="finrisk2" src="https://github.com/user-attachments/assets/55580761-7bbd-4ffd-b163-702c1fac2275" />
-<img width="1919" height="918" alt="finrisk3" src="https://github.com/user-attachments/assets/cc281394-76d8-47ed-bca4-9ca03fe6f758" />
-<img width="1920" height="917" alt="finrisk4" src="https://github.com/user-attachments/assets/f6638317-e9e8-451e-92fe-640fca202f6a" />
