@@ -48,7 +48,7 @@ Featuring a high-performance decoupled architecture, CreditShield AI provides re
                                         │ • Feature Scoring Model │
                                         └─────────────────────────┘
 
-
+---
 
 <img width="1917" height="918" alt="finrisk1" src="https://github.com/user-attachments/assets/4e00abe3-45cc-455f-860e-c07b8b1a7925" />
 <img width="1919" height="917" alt="finrisk2" src="https://github.com/user-attachments/assets/55580761-7bbd-4ffd-b163-702c1fac2275" />
