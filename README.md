@@ -1,4 +1,4 @@
-# 🛡️ CreditShield AI
+# 🛡️ FinRisk AI
 > **Enterprise Real-Time Credit Assessment & Transaction Fraud Engine**
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -7,7 +7,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-232F3E?style=for-the-badge&logo=xgboost)](https://xgboost.readthedocs.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-CreditShield AI is an enterprise-grade financial risk intelligence platform designed to address two core banking challenges simultaneously: **intelligent automated credit underwriting** and **real-time transaction fraud monitoring**. 
+FinRisk AI is an enterprise-grade financial risk intelligence platform designed to address two core banking challenges simultaneously: **intelligent automated credit underwriting** and **real-time transaction fraud monitoring**. 
 
 Featuring a high-performance decoupled architecture, CreditShield AI provides real-time ML scoring alongside Explainable AI (SHAP) to satisfy strict regulatory audit standards.
 
@@ -27,7 +27,7 @@ Featuring a high-performance decoupled architecture, CreditShield AI provides re
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
-│              CreditShield AI Infrastructure              │
+│              FinRisk AI Infrastructure              │
 └────────────────────────────┬────────────────────────────┘
                              │
      ┌───────────────────────┴───────────────────────┐
