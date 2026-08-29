@@ -2,7 +2,9 @@ import os
 import pandas as pd
 from xgboost import XGBClassifier
 
-MODEL_DIR = os.path.join(os.path.dirname(__file__), "../../models")
+# Correct Path: app/services/ -> app/ -> app/models/
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", "models"))
 
 credit_model = XGBClassifier()
 credit_model.load_model(os.path.join(MODEL_DIR, "credit_model.json"))
